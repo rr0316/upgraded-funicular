@@ -14,3 +14,4 @@ pillow>=10.0.0
 scipy>=1.11.0
 chardet>=5.2.0  # 编码识别
 urllib3>=2.0.7  # 防请求报错
+agent-skills
